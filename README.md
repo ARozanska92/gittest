@@ -1,0 +1,2 @@
+#komentarz
+Tutaj opis projektu
